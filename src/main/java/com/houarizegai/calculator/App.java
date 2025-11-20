@@ -10,9 +10,10 @@ public class App {
         system.out.println("resta");
 
         system.out.println("division");
-        
+         system.out.println("raiz");
 
         system.out.println("multiplicacion");
+
 
         
     }
