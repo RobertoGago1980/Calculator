@@ -8,7 +8,7 @@ public class App {
         new CalculatorUI();
         system.out.println("suma");
         system.out.println("resta");
-        
+        system.out.println("multiplicacion");
         
     }
 }
